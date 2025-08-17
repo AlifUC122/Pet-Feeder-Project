@@ -1,4 +1,4 @@
-# Pet-Feeder-Project
-1. Automated Pet Feeder System_Step-1_Analysis
-2. Automated Pet Feeder System_Step-3_Flowchart
-3. Automated Pet Feeder System_Step-4_Word-Code
+# Autumated Pet Feeder System
+While working on the automatic pet feeder project, I focused on organizing my thoughts and planning the solution step by step. I explored how to break down the project into clear steps, create a flowchart, write word-based code with meaningful variables, and test different scenarios. Structured sequences and modular task explanations helped me approach each part in a clear and manageable way.
+This process helped me see the project from a broader perspective. For instance, I recognized the importance of error handling for empty bowls or undispensed food, and the need to log feeding activity systematically. Breaking the solution into concise, modular steps made the implementation and documentation much easier.
+The approach influenced my final solution significantly. It encouraged me to think methodically about inputs, outputs, and decisions, and to organize my GitHub repository professionally. Overall, the process improved both my problem-solving skills and my confidence in reporting the project. The planning and testing stages were particularly valuable in ensuring a functional and reliable system.
